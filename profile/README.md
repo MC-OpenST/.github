@@ -1,6 +1,6 @@
-# MC-OpenST 🚀
+# OpenST-mc 🚀
 
-**Minecraft Open Storage Tech** 一个致力于推广，归档 Minecraft 存储技术的开源组织。
+**Open Storage Tech** 一个致力于推广，归档 Minecraft 存储技术的开源组织。
 
 ---
 
