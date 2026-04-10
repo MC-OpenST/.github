@@ -1,25 +1,20 @@
-# 公告栏
+# MC-OpenST 🚀
 
-[submissions仓库](https://github.com/MC-OpenST/Submissions/issues)是审核查看投稿的地方  
-注意事项：  
-1. 如果投稿作品为审核员自身作品，则该投稿得由其他审核员负责审核
-2. 如果作品有bug，需通过作者留下的联系方式联系作者。如未留下联系方式则通过issue留言
-3. 作品通过审核后，需将整个文件夹（submissions.zip解压后打开里面的文件夹）扔进website项目的archive文件夹
-4. 有任何问题可问 Linvin-1233
+**Minecraft Open Storage Tech** 一个致力于推广，归档 Minecraft 存储技术的开源组织。
 
-Staff人员：（不分先后）  
-Linvin-1233  
-Trice450  
-linchien26
+---
 
-档案馆审核员：  
-Linvin-1233  
-Trice450  
-Gufen-hnust  
-woodengrass  
+### 🏛️ 项目中心 (Projects)
 
-wiki审核：  
-Trice450  
+* **[Archive Portal](https://openstmc.com)**: 档案馆门户，收录最尖端的生电技术成果。
+* **[Wiki System](https://wiki.openstmc.com)**: (Coming Soon) 深度生电理论与机器说明书。
+* **[Submissions](https://openstmc.com/upload/upload)**: 社区投稿通道，欢迎分享你的红石设计。
 
-网站维护：  
-Linvin-1233
+### 👥 核心团队 (The Team)
+
+* **管理:** Linvin-1233, linchien26, Trice450
+* **Maintainers:** Trice450, linchien26, Gufen-hnust, woodengrass, yymhyymh, Linvin-1233
+
+---
+
+> **Looking to contribute?** > 请前往 [我们的上传页面](https://openstmc.com/upload/upload) 提交你的作品！
