@@ -17,4 +17,4 @@
 
 ---
 
-> **Looking to contribute?** > 请前往 [我们的上传页面](https://openstmc.com/upload/upload) 提交你的作品！
+> **Looking to contribute?**  请前往 [我们的上传页面](https://openstmc.com/upload/upload) 提交你的作品！
